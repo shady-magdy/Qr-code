@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #262a2f !important;
+}
+
+.main {
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px 35px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+button {
+    padding: 10px;
+    margin-left: 25% !important;
+}
+
+#input {
+    border-radius: 15px;
+}
+
+img {
+    margin-left: 25%;
+}
+#link{
+    margin-left: 38%;
+}
